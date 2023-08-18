@@ -2,7 +2,7 @@
 
 name = "Tagged Images"
 client_id = "08267a137ead223d3dedfc4fe9f6c466"
-application_url = "https://temporary-chemistry-wish-enemy.trycloudflare.com"
+application_url = "https://scenes-hobbies-cars-encouraged.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -12,9 +12,9 @@ use_legacy_install_flow = true
 
 [auth]
 redirect_urls = [
-  "https://temporary-chemistry-wish-enemy.trycloudflare.com/auth/callback",
-  "https://temporary-chemistry-wish-enemy.trycloudflare.com/auth/shopify/callback",
-  "https://temporary-chemistry-wish-enemy.trycloudflare.com/api/auth/callback"
+  "https://scenes-hobbies-cars-encouraged.trycloudflare.com/auth/callback",
+  "https://scenes-hobbies-cars-encouraged.trycloudflare.com/auth/shopify/callback",
+  "https://scenes-hobbies-cars-encouraged.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]

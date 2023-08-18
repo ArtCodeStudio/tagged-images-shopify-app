@@ -5,6 +5,12 @@ This is a template for building a [Shopify app](https://shopify.dev/docs/apps/ge
 <!-- TODO: Uncomment this after we've started using the template in the CLI -->
 <!-- Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template). -->
 
+## TODO
+ * Follow this tutorials:
+   * https://shopify.dev/docs/apps/getting-started/build-qr-code-app?languagePreferences=remix
+   * https://egghead.io/courses/up-and-running-with-remix-b82b6bb6
+   * https://egghead.io/courses/build-a-backend-with-prisma-in-a-typescript-node-project-ca6628d3
+
 ## Quick start
 
 ### Prerequisites
@@ -25,36 +31,12 @@ Using yarn:
 yarn install
 ```
 
-Using npm:
-
-```shell
-npm install
-```
-
-Using pnpm:
-
-```shell
-pnpm install
-```
-
 ### Local Development
 
 Using yarn:
 
 ```shell
 yarn dev
-```
-
-Using npm:
-
-```shell
-npm run dev
-```
-
-Using pnpm:
-
-```shell
-pnpm run dev
 ```
 
 Press P to open the URL to your app. Once you click install, you can start development.
@@ -126,18 +108,6 @@ Using yarn:
 
 ```shell
 yarn build
-```
-
-Using npm:
-
-```shell
-npm run build
-```
-
-Using pnpm:
-
-```shell
-pnpm run build
 ```
 
 ## Hosting
